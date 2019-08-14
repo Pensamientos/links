@@ -10,6 +10,8 @@ https://study.up-skills.ru/cms/system/login
 
 https://prosto-remont.com/
 
+https://www.figma.com/file/CsxwpfaDjlUmgK75W6GQMJ/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82?node-id=0%3A1
+
 1 блок — Первый экран
 
 
